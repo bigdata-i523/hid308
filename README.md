@@ -17,7 +17,7 @@ owner:
 
 ```
 paper1:
-   author: 
+   author: Pravin Deshmukh
    - Gregor von Laszewski
    - Fugang Wang
    hid:

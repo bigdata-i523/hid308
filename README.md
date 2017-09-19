@@ -1,31 +1,25 @@
 # hid308
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 308
+    name: Pravin Deshmukh
+    url: https://github.com/bigdata-i523/hid308
 ```
 
 # Paper 1
 
 ```
 paper1:
-   author: Pravin Deshmukh
-   - Gregor von Laszewski
-   - Fugang Wang
+   author:
+   - Pravin Deshmukh
    hid:
-   - 000
-   - 001
+   - 308
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid308/paper1/paper1.pdf
    type: latex
    
    status: in progress
@@ -52,9 +46,8 @@ We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with 
 
 ```
-paper2:
+project:
    type: project
-   type: report
    author: 
    - Gregor von Laszewski
    hid:

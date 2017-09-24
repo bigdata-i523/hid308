@@ -1,6 +1,6 @@
 # Logistic
 
-* 09/01/17 Read the entire class overview section 
+* 09/07/17 Read the entire class overview section 
 
 # Theory
 
@@ -8,7 +8,7 @@
 
 # Practice
 
-* 08/24/17 Bought Raspberry PI
+* 09/08/17 Created a Github account
 * 08/25/17 Enabled Python 2 and 3 via pyenv on OSX
 
 # Writing

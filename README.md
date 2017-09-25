@@ -37,7 +37,7 @@ paper2:
    title: Parallel Computing and Big Data
    abstract: This paper will explain how much parallel computing is important in Big Data solution and benefits
    achieved with the parallel process in Big Data Anlytics
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/hid308/blob/master/paper2/report.bib   
    type: word
    status: in progress
 ```

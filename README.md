@@ -34,8 +34,9 @@ paper2:
    - Pravin Deshmukh
    hid:
    - 308
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
+   title: Parallel Computing and Big Data
+   abstract: This paper will explain how much parallel computing is important in Big Data solution and benefits
+   achieved with the parallel process in Big Data Anlytics
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: word
    status: in progress

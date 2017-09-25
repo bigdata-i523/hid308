@@ -17,8 +17,9 @@ paper1:
    - Pravin Deshmukh
    hid:
    - 308
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
+   title: Big Data and Data Visualization
+   abstract:> This paper how anlalytical findings of Big Data solutions can be visualized  
+   using various technologies
    url: https://github.com/bigdata-i523/hid308/paper1/paper1.pdf
    type: latex
    

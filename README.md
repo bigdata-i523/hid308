@@ -20,7 +20,7 @@ paper1:
    title: Big Data and Data Visualization
    abstract:> This paper how anlalytical findings of Big Data solutions can be visualized  
    using various technologies
-   url: https://github.com/bigdata-i523/hid308/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
    type: latex
    
    status: in progress

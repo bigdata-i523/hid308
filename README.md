@@ -18,8 +18,8 @@ paper1:
    hid:
    - 308
    title: Big Data and Data Visualization
-   abstract:> This paper how anlalytical findings of Big Data solutions can be visualized  
-   using various technologies
+   abstract:> This paper will provide an overview on how analytical findings of Big Data solutions can be visualized  
+   using various visualization technologies
    url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
    type: latex
    

@@ -18,13 +18,14 @@ paper1:
    hid:
    - 308
    title: Big Data and Data Visualization
-   abstract:> This paper will provide an overview on how analytical findings of Big Data solutions can be visualized  
-   using various visualization technologies
+   abstract: >
+      This paper will provide an overview on how analytical
+      findings of Big Data solutions can be visualized
+      using various visualization technologies
    url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
    type: latex
-   
    status: in progress
- ```
+```
    
 # Paper 2
 
@@ -35,9 +36,11 @@ paper2:
    hid:
    - 308
    title: Parallel Computing and Big Data
-   abstract: This paper will explain how much parallel computing is important in Big Data solution and benefits
-   achieved with the parallel process in Big Data Anlytics
-   url: https://github.com/bigdata-i523/hid308/blob/master/paper2/report.bib   
+   abstract: >
+       This paper will explain how much parallel computing is
+       important in Big Data solution and benefits
+       achieved with the parallel process in Big Data Anlytics
+   url: https://github.com/bigdata-i523/hid308/blob/master/paper2/report.bib
    type: word
    status: in progress
 ```
@@ -59,5 +62,4 @@ project:
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
    type: latex
    status: in progress
-```
-   
+``` 

@@ -1,3 +1,4 @@
+
 9# Logistic
 
 * 09/07/17 Read the entire class overview section 
@@ -5,6 +6,7 @@
 # Theory
 
 * 09/08/17 - 09/13/17 Read and watched all videso in the Theory Introduction section
+* 09/25/17 - Watched class video for 18th Sept 2017
 
 # Practice
 

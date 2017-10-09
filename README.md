@@ -24,7 +24,7 @@ paper1:
       using various visualization technologies
    url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
    type: latex
-   status: in progress
+   status: Complete
    chapter: Technology
 ```
    

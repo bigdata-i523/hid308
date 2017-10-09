@@ -1,5 +1,6 @@
 
 
+
 9# Logistic
 
 * 09/07/17 Read the entire class overview section 
@@ -20,3 +21,4 @@
 * 09/23/17 - Identified topics for paper1 and paper2 
 * 09/24/17 - Started working on paper1 topic : Big Data and Data Visualization
 * 09/28/17 - Research on various data visualization techniques that supports Big Data
+* 10/08/17 - Completed Paper-1 assignment

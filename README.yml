@@ -40,3 +40,4 @@ project:
     title: Benchmarking a BigData Docker deployment
     type: latex
     url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    chapter: Technology

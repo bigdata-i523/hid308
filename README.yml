@@ -17,6 +17,7 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
 paper2:
+    exclude: True
     review: Nov 6 2017
     abstract:
         This paper will explain how much parallel computing is important in

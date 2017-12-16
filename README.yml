@@ -15,7 +15,6 @@ paper1:
         - 308
     status: 100%
     title: Big Data and Data Visualization
-    type: latex
     url: https://github.com/bigdata-i523/hid308/blob/master/paper1/report.bib
 paper2:
     exclude: True
@@ -30,7 +29,6 @@ paper2:
         - 308
     status: in progress
     title: Parallel Computing and Big Data
-    type: word
     url: https://github.com/bigdata-i523/hid308/blob/master/paper2/report.bib
 project:
     abstract: This paper showcases tis and that and the other
